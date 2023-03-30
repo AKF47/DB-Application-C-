@@ -1,0 +1,7 @@
+C:\Users\MSI\Desktop\exam\17354_Ahmad_Fakhouri\17354_Ahmad_Fakhouri\bin\Debug\17354_Ahmad_Fakhouri.exe.config
+C:\Users\MSI\Desktop\exam\17354_Ahmad_Fakhouri\17354_Ahmad_Fakhouri\bin\Debug\17354_Ahmad_Fakhouri.exe
+C:\Users\MSI\Desktop\exam\17354_Ahmad_Fakhouri\17354_Ahmad_Fakhouri\bin\Debug\17354_Ahmad_Fakhouri.pdb
+C:\Users\MSI\Desktop\exam\17354_Ahmad_Fakhouri\17354_Ahmad_Fakhouri\obj\Debug\17354_Ahmad_Fakhouri.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\exam\17354_Ahmad_Fakhouri\17354_Ahmad_Fakhouri\obj\Debug\17354_Ahmad_Fakhouri.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\exam\17354_Ahmad_Fakhouri\17354_Ahmad_Fakhouri\obj\Debug\17354_Ahmad_Fakhouri.exe
+C:\Users\MSI\Desktop\exam\17354_Ahmad_Fakhouri\17354_Ahmad_Fakhouri\obj\Debug\17354_Ahmad_Fakhouri.pdb
